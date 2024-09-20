@@ -1,0 +1,1 @@
+sed -E -n 's!(\S*) (\S*)( \S*)?,([0-9]*)!\2 \1 (\4)!w data/students.txt' data/students.csv
