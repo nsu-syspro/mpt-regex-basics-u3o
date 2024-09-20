@@ -1,0 +1,1 @@
+sed -e 's!живи!Не спи!gi; s/умрёшь/Уснёшь/gi' data/blok.txt > data/blok_kids_edition.txt
