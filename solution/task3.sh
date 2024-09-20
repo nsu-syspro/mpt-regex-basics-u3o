@@ -1,0 +1,1 @@
+grep -iwo "Пугачев" data/pushkin.txt | grep -c "Пугачев"
